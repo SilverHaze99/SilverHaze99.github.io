@@ -75,10 +75,10 @@ a:hover {
 }
 header div strong a {
     text-decoration: none; /* Remove the default underline */
-    color: inherit; /* Inherit the color from the strong tag (which will be #e0e0e0) */
+    color: #e0e0e0; /* Set the default color to your light gray */
 }
 
 header div strong a:hover {
-    color: #00bcd4; /* Apply the teal hover color on the link */
-    text-decoration: underline; /* Add the underline back on hover for interaction feedback */
+    color: #00bcd4; /* Apply the teal hover color */
+    text-decoration: underline; /* Add the underline back on hover */
 }
