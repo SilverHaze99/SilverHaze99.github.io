@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+
 <main>
     <h1>Projects</h1>
     <p class="intro">A collection of tools and research papers focused on cybersecurity, OSINT, and AI ethics.</p>
@@ -37,6 +38,7 @@ title: Projects
                 <h3><a href="https://github.com/SilverHaze99/WordCrunch" target="_blank">WordCrunch</a></h3>
                 <p>A comprehensive command-line tool designed for cybersecurity professionals, penetration testers, and security researchers who need powerful wordlist manipulation capabilities. The tool provides advanced filtering, transformation, and analysis features for managing large-scale password lists, dictionary files, and custom wordlists.</p>
                 <span class="project-tag">Pentesting</span>
+            </div>   
             <div class="project-card">
                 <h3><a href="https://github.com/SilverHaze99/PixelRuler" target="_blank">PixelRuler</a></h3>
                 <p>A specialized computer vision tool designed for Open Source Intelligence (OSINT) analysts to perform precise measurements on digital images. The tool enables analysts to measure objects in images using known reference objects or collect pixel-based measurements for later scaling.</p>
@@ -78,3 +80,4 @@ title: Projects
         <p>You can find out more directly on my <a href="https://github.com/SilverHaze99" target="_blank">GitHub Profile</a>.</p>
     </div>
 </main>
+
