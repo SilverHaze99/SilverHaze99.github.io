@@ -10,26 +10,12 @@ title: Transparency
     <section class="transparency-section">
         <h2>1. Colors and Their Influence</h2>
         <p>I use a dark color scheme with shades of gray and a teal accent. Here's how they might shape your perception:</p>
-        <div class="color-analysis">
-            <div class="color-item">
-                <div class="color-swatch" style="background-color: #121212;"></div>
-                <div class="color-description">
-                    <strong>Dark Gray (#121212, #1e1e1e, #2a2a2a)</strong>: These tones feel serious and professional, fitting for InfoSec. They might make you see the site as competent but could feel a bit cold.
-                </div>
-            </div>
-            <div class="color-item">
-                <div class="color-swatch" style="background-color: #e0e0e0; border: 1px solid #333;"></div>
-                <div class="color-description">
-                    <strong>Light Gray Text (#e0e0e0, #777)</strong>: High contrast ensures readability and clarity. It aims to be neutral but might seem less emotionally engaging.
-                </div>
-            </div>
-            <div class="color-item">
-                <div class="color-swatch" style="background-color: #00bcd4;"></div>
-                <div class="color-description">
-                    <strong>Teal Accent (#00bcd4)</strong>: Used for links and hover effects, teal suggests trust and tech-savviness. It encourages clicks but subtly guides your focus.
-                </div>
-            </div>
-        </div>
+        <ul>
+            <li><strong>Dark Gray (#121212, #1e1e1e, #2a2a2a)</strong> <span style="background-color: #121212; width: 20px; height: 20px; display: inline-block; border: 1px solid #e0e0e0;"></span>: These tones feel serious and professional, fitting for InfoSec. They might make you see the site as competent but could feel a bit cold.</li>
+            <li><strong>Light Gray Text (#e0e0e0, #777)</strong> <span style="background-color: #e0e0e0; width: 20px; height: 20px; display: inline-block; border: 1px solid #121212;"></span>: High contrast ensures readability and clarity. It aims to be neutral but might seem less emotionally engaging.</li>
+            <li><strong>Teal Accent (#00bcd4)</strong> <span style="background-color: #00bcd4; width: 20px; height: 20px; display: inline-block; border: 1px solid #e0e0e0;"></span>: Used for links and hover effects, teal suggests trust and tech-savviness. It encourages clicks but subtly guides your focus.</li>
+            <li><strong>Purple Accent (#9c27b0)</strong> <span style="background-color: #9c27b0; width: 20px; height: 20px; display: inline-block; border: 1px solid #e0e0e0;"></span>: Used for research papers and theoretical content, purple suggests creativity and depth. It might make you perceive academic content as more sophisticated or intellectually challenging.</li>
+        </ul>
         <p class="note">Note: Colors vary across cultures. I chose tones that feel professional globally, but your perception might differ. Try toggling Dark/Light Mode in your browser to feel the difference!</p>
     </section>
     <section class="transparency-section">
