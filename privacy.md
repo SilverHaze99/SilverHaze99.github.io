@@ -42,7 +42,7 @@ title: Privacy
     <h2>6. Contact Us</h2>
     <p>For questions, concerns, or suggestions about this Privacy Policy or the site’s practices, contact us via:</p>
     <ul>
-      <li><strong>GitHub</strong>: Open an issue on the repository at <a href="https://github.com/SilverHaze99/SilverHaze99.github.io" target="_blank">github.com/SilverHaze99/SilverHaze99.github.io</a> or send a message through GitHub.</li>
+      <li><strong>GitHub</strong>: Open an issue on the repository at <a href="https://github.com/SilverHaze99" target="_blank">github.com/SilverHaze99</a> or send a message through GitHub.</li>
       <li><strong>Other Channels</strong>: We keep our digital footprint minimal, so GitHub is the best way to connect.</li>
     </ul>
 
@@ -50,4 +50,5 @@ title: Privacy
     <p>InfosecFor is a passion project built on <strong>transparency</strong>, <strong>minimalism</strong>, and <strong>privacy</strong>. We share knowledge and tools in information security and OSINT without compromising your trust. If you notice anything inconsistent with this commitment, please let us know!</p>
 
     <p>Thank you for visiting! Let’s keep the internet open, secure, and private. 🔒</p>
+
 </main>
