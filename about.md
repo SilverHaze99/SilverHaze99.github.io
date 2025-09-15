@@ -5,12 +5,18 @@ title: About Me
 
 <main>
    <h1>About Me</h1>
-    <p>Hey, I’m Silver, a 25-year-old tech enthusiast from Austria, diving headfirst into the worlds of Local AI, OSINT, cybersecurity, and open-source development. My mission is to harness technology for innovation, privacy, and collaboration while keeping the internet open, secure, and free. I’m a self-taught coder, a curious investigator, and a firm believer that privacy is a human right, not a privilege.</p>
-    <p>At <strong>InfoSecFor</strong>, I share my journey through projects, tools, and ideas that reflect my passion for transparency, minimalism, and information ethics. Whether it’s building privacy-focused AI utilities, crafting beginner-friendly OSINT tools, or dreaming up a decentralized “Free Internet 2.0,” I’m here to learn, create, and connect. My vision? A network where decentralization, anonymity, and end-to-end encryption empower people, free from surveillance or censorship.</p>
-    <p>I’m fluent in Python and Bash, tinkering with local AI frameworks, data scraping, and system utilities. My current goals include mastering AI model optimization, contributing to open-source projects, and collaborating with developers and researchers—beginners and pros alike. You’ll find me exploring advanced libraries like Pandas and TensorFlow, dabbling in Rust, or geeking out over Docker and Linux workflows.</p>
-    <p>My site’s design is intentional: a dark, minimalist aesthetic with teal accents to signal trust and tech-savviness, paired with a direct tone that cuts through the noise. I’m upfront about how my choices—like colors, typography, or even my “No trackers. No bullshit” mantra—might shape your perception. My homepage disclaimer is a wake-up call to question everything, including me. Transparency is my commitment, but I encourage you to stay critical.</p>
-    <p>When I’m not coding or analyzing data, I’m advocating for a freer internet through ideas like <strong>POP (Protect Our Privacy)</strong>, a movement against surveillance and mandatory IDs. I dream of a decentralized network built on open-source principles, community governance, and resilience—running on everyday hardware like Raspberry Pis or old laptops.</p>
-    <p>Let’s connect! Whether you’re new to coding or deep in the OSINT trenches, I’m excited to collaborate on impactful projects. Check out my GitHub repos, drop me a DM, or join the conversation. Together, we can build tools, share knowledge, and keep the internet a place for free people.</p>
-    <p><strong>#protectourprivacy</strong></p>
-    <p><a rel="me" href="https://mastodon.social/@infosecfor">Mastodon</a> | <a href="https://github.com/infosecfor">GitHub</a></p>
+   <p>Yo, I’m <strong>Silver</strong>, a 25-year-old tech junkie from Austria, neck-deep in <strong>Local AI</strong>, <strong>OSINT</strong>, <strong>cybersecurity</strong>, and open-source chaos. My goal? To wield tech for innovation, privacy, and the occasional reality check on scammers, all while keeping the internet a freer place.</p>
+   <p>I’m a self-taught coder and relentless investigator, hooked on building smart systems and digging up hidden data trails. From running AI models locally for max privacy to mapping phishing networks across borders, I’m all about learning, creating, and collaborating. My vibe is a mix of curiosity, minimalism, and a knack for uncovering what others miss.</p>
+   <p><strong>What’s on My Plate:</strong></p>
+   <ul>
+      <li><strong>Local AI</strong>: Tweaking AI models for efficiency and privacy, with a dash of multi-model mayhem.</li>
+      <li><strong>OSINT</strong>: Scraping public data to expose scams and track cyber threats like a digital detective.</li>
+      <li><strong>Cybersecurity</strong>: Chasing down credential leaks, reporting bad actors, and mastering the art of proper escalation (no more Twitter rants).</li>
+      <li><strong>Code</strong>: Rocking Python, Bash, and PowerShell, with Rust on my radar for high-performance projects.</li>
+   </ul>
+   <p><strong>Goals:</strong> Level up my AI optimization skills, contribute to open-source AI and OSINT projects, and team up with devs and researchers—newbies or veterans. I’m crafting beginner-friendly OSINT tools and AI-driven security utils to make the internet a tougher place for cybercriminals.</p>
+   <p><strong>Toolkit:</strong> Python, Bash, PowerShell, Git, Docker, Linux, and local AI frameworks. I nerd out with Pandas, TensorFlow, and OSINT analysis tools, all styled with a sleek, teal-tinted, no-nonsense aesthetic.</p>
+   <p><strong>Recent Quests:</strong> Tracked international phishing ops, got AI models to throw shade at each other, and learned the hard way that ICANN prefers text files over my 20MB OSINT reports. Oops.</p>
+   <p><strong>Let’s Team Up!</strong> Whether you’re just starting out or a cybersecurity pro, I’m down to collaborate on projects that matter. Peek at my GitHub repos, slide into my DMs, or join the convo. Let’s build, learn, and keep the internet legit—together.</p>
+   <p><a rel="me" href="https://mastodon.social/@infosecfor">Mastodon</a> | <a href="https://github.com/infosecfor">GitHub</a></p>
 </main>
